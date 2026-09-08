@@ -20,9 +20,9 @@ O modelo relacional foi estruturado de forma normalizada, atendendo às regras d
 
 ## 👥 Autores e Participações
 Projeto colaborativo desenvolvido pelos seguintes alunos:
-*   **Arthur Veiga**
-*   **Giovana Zacaroni**
-*   **Karol Guimarães**
-*   **Lívia Fagundes**
+*   **Arthur Veiga** [@ArtJamis1208] (https://github.com/ArtJamis1208)
+*   **Giovana Zacaroni** [@gigi-zacaroni] (https://github.com/gigi-zacaroni)
+*   **Karol Guimarães** [@KarolGSMiranda] (https://github.com/KarolGSMiranda)
+*   **Lívia Fagundes** [@liviafgs] (https://github.com/liviafgs)
 *   **Maria Luiza Pestana**
-*   **Raíssa Fernandes**
+*   **Raíssa Fernandes** 
